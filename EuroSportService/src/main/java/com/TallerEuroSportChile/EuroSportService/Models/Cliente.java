@@ -36,5 +36,6 @@ public class Cliente {
     private List<Cotizacion> listaCotizacion;
 
     // Revisar las relaciones
+    //Tincho
 
 }
