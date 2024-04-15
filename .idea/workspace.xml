@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3d5c65d-56ba-4ccc-85d2-21f2dae4146c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Taller EuroSport Chile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Controller/AutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Controller/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Controller/CotizacionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Enums/Encargado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Enums/EstadoCotizacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Enums/Rol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/EuroSportServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Exception/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Models/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Models/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Models/Cotizacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Models/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Repository/IAutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Repository/IClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Repository/ICotizacionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Repository/IUsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/AutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/CotizacionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/IAutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/IClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/ICotizacionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/IUsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/java/com/TallerEuroSportChile/EuroSportService/Service/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EuroSportService/src/test/java/com/TallerEuroSportChile/EuroSportService/EuroSportServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eq3wzfHNhrH3Tkgsfh0ffGYZ8U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tincho",
+    "last_opened_file_path": "C:/Users/MegaTecnologia/Desktop/Taller EuroSport Chile/EuroSportService",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EuroSportServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TallerEuroSportChile.EuroSportService.EuroSportServiceApplication" />
+      <module name="EuroSportService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TallerEuroSportChile.EuroSportService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EuroSportServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d5c65d-56ba-4ccc-85d2-21f2dae4146c" name="Changes" comment="" />
+      <created>1712618523403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712618523403</updated>
+    </task>
+    <servers />
+  </component>
+</project>
