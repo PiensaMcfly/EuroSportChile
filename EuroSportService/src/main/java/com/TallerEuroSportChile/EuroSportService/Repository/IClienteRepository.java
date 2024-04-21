@@ -17,7 +17,13 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface IClienteRepository extends JpaRepository<Cliente, Long> {
 
-    @Query("SELECT c FROM Cliente c WHERE c.Cliente = :id")
-    public String buscarcliente(@Param("Cliente") String id);
+    //@Query("SELECT c FROM Cliente c WHERE c.id = :id")
+    //public String buscarcliente(@Param("id") String id);
+
+    //@Query("SELECT c FROM Cotizacion c WHERE c. = :id")
+    //public List <Cotizacion> (@Param("id") String id);
+
+    //@Query("SELECT c FROM Cliente c WHERE c.id = :id")
+    //public List <Auto>(@Param("id") String id);
 
 }

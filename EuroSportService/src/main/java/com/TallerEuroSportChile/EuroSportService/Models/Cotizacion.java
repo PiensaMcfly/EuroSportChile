@@ -17,7 +17,7 @@ import lombok.Setter;
 public class Cotizacion {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    private Long id;
+    private Long idCotizacion;
     private Long monto;
     private String descripcion;
    // @ManyToOne

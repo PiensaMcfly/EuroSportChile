@@ -19,7 +19,7 @@ import lombok.Setter;
 public class Auto {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    private Long id;
+    private Long idAuto;
     private String modelo;
     private String marca;
     private String patente;
